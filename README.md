@@ -2,22 +2,16 @@
 
 This is Nhung's repo hoho
 
-Danh sách các bạn comtor trong course 2
+Đây là file readme đã được chỉnh sửa lần 2
 
-Lưu Thị Thanh Vân
-
-Trần Thị Thu Mai
-
-Huỳnh Thị Trúc Uyên
-
-Huỳnh Thị Thuý Nga
-
-Mai Quế Ngân
-
-Trần Thị Giang Thanh
-
-Nguyễn Ý Uyên
+ABC
 
 Phạm Hồng Nhung
 
-Hồ Thị Thu Hương
+Email: pham.hong.nhung@sun-asterisk.com
+
+Lưu Thị Thanh Vân
+
+Email: luu.thi.thanh.van@sun-asterisk.com
+
+
